@@ -2,7 +2,7 @@
 ==================
 
 This thing is a two channel CV quantizer for Eurorack, intended to make sure
-some oscillators played by an analog sequencer are actuall playing in tune :)
+some oscillators played by an analog sequencer are actually playing in tune :)
 
 * two CV input channels, two outputs 0-4.096V, four octaves @ 1V/oct.
 * transpose knob per channel, +/- 1 octave in semitone steps
